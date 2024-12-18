@@ -1,4 +1,9 @@
 
+
+## FILES LOST
+- During the commit, I think something was not done properly, all the files have been deleted
+
+
 # MusicPod
 
 MusicPod is an iOS application designed to explore various music genres and podcasts available on iTunes. The app provides a user-friendly interface to select genres, view top songs and podcasts, and search for specific content.
@@ -38,4 +43,6 @@ Contributions are welcome! To contribute, please open issues or submit pull requ
 
 ## Acknowledgments
 This app uses data provided by the iTunes Store via their public API.
+
+
 
